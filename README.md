@@ -1,3 +1,3 @@
 # Not Fruit Ninja
 
-It's a game.  That's it.
+It's a game that isn't Fruit Ninja.  That's it.
